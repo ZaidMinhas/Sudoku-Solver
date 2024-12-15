@@ -26,5 +26,5 @@ Solve(index){
 }
 ```
 
-`test_and_set` checks if a cell value is valid by cross-checking with a cell block, row and column. If it is then it sets the value in the board. 
-`reset` sets a cell back to 0, then backtracks to the previous cell
+* `test_and_set` checks if a cell value is valid by cross-checking with a cell block, row and column. If it is then it sets the value in the board. 
+* `reset` sets a cell back to 0, then backtracks to the previous cell

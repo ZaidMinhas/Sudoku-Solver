@@ -2,8 +2,8 @@
 I built a simple brute-force algorithm that solves any sudoku game
 
 ## How to run
-Create a text file with a Sudoku board (fill empty squares with 0s, check Medium.txt for reference
-Run the program and enter file path and name
+* Create a text file with a Sudoku board (fill empty squares with 0s, check Medium.txt for reference
+* Run the program and enter file path and name
 
 ## How it works
 Program initalizes a vector of empty board positions
